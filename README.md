@@ -7,8 +7,10 @@ Some notebooks/scripts for making the map of the test region of the blueberry fa
 
 To view the map in Google Earth:
 
-1. [Download the KML file](https://github.com/Jostan86/blueberry_farm_map/blob/main/data_map_2/blueberry_farm_map.kml).
-2. Open [Google Earth](https://earth.google.com/web/).
+<!-- 1. [Download the KML file](https://github.com/Jostan86/blueberry_farm_map/blob/main/data_map_2/blueberry_farm_map.kml). -->
+<!-- 2. Open [Google Earth](https://earth.google.com/web/). -->
+1. <a href="https://github.com/Jostan86/blueberry_farm_map/raw/main/data_map_2/blueberry_farm_map.kml" download target="_blank">Download the KML file</a>
+2. <a href="https://earth.google.com/web/" target="_blank">Open Google Earth</a>
 3. Click on the menu icon and select "File" > "Import KML / KMZ file".
 4. Select the downloaded KML file to view the map.
 
