@@ -1,5 +1,7 @@
 ## Overview
 Some notebooks/scripts for making the map of the test region of the blueberry farm. 
+<!-- ![Image](data_map_2/blueberry_farm_map.png){: width="50%"} -->
+<img src="data_map_2/blueberry_farm_map.png" alt="Image" style="width:50%;">
 
 ## Installation
 Download the package:
