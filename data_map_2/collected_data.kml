@@ -1,0 +1,1070 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Blueberry Farm 2</name>
+<open>0</open>
+<description>Exported using SW Maps</description>
+<Folder>
+<name>Bushes</name>
+<visibility>1</visibility>
+<open>0</open>
+<Style id="Bushes-PointStyle">
+<IconStyle>
+<color>FF377B2D</color>
+<scale>0.5</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
+</Icon>
+<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+</IconStyle>
+<LabelStyle>
+<scale>0</scale>
+</LabelStyle>
+</Style>
+<Style id="Bushes-Style">
+<LineStyle>
+<color>FF377B2D</color>
+<width>3</width>
+</LineStyle>
+<PolyStyle>
+<color>50377B2D</color>
+</PolyStyle>
+</Style>
+<Placemark>
+<name>Bushes 1</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 1</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97087416666668,44.68253933333333,51.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 2</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 2</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.970874,44.68247766666667,51.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 3</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 3</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97087300000001,44.682410499999996,51.099999999999994</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 4</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 4</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97087383333334,44.682344666666665,51.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 5</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 5</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97087183333333,44.68227533333334,51.39999999999999</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 6</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 6</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97087133333335,44.682209666666665,51.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 7</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 7</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97087033333334,44.68213633333334,51.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 8</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 8</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97087099999999,44.68206683333333,51.39999999999999</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 9</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 9</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97086883333336,44.68200149999999,51.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 10</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 10</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97086650000001,44.681935333333335,51.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 11</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 11</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97086466666667,44.681868333333334,51.39999999999999</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 12</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 12</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97086616666665,44.681800833333334,51.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 13</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 13</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.970862,44.6817335,51.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 14</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 14</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97086383333331,44.68166683333333,51.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 15</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 15</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97086116666667,44.68160066666666,51.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 16</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 16</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97086083333333,44.681532,51.39999999999999</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 17</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 17</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97086116666667,44.68146633333333,51.39999999999999</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 18</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 18</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97085899999999,44.681399500000005,51.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 19</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 19</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97085866666667,44.681333166666676,51.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 20</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 20</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.9708565,44.68126416666667,51.599999999999994</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 21</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 21</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97085683333336,44.681198166666675,51.39999999999999</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 22</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 22</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97085783333331,44.68113233333334,51.599999999999994</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 23</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 23</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97085800000002,44.68106683333333,51.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 24</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 24</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.970896,44.68106833333333,51.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 25</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 25</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.9708995,44.68112850000001,51.39999999999999</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 26</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 26</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97089916666665,44.68119633333334,51.39999999999999</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 27</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 27</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.9709015,44.68126316666666,51.599999999999994</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 28</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 28</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97089883333335,44.681330333333335,51.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 29</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 29</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.9709058333333,44.681397333333344,51.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 30</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 30</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97090349999999,44.68146433333334,51.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 31</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 31</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97090383333334,44.68153,51.599999999999994</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 32</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 32</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97090433333332,44.681596333333324,51.39999999999999</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 33</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 33</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97090616666667,44.68166466666666,51.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 34</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 34</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97090566666665,44.681729333333344,51.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 35</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 35</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97090616666667,44.681797166666676,51.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 36</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 36</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97090983333334,44.68186266666667,51.39999999999999</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 37</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 37</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97090816666665,44.681930333333334,51.099999999999994</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 38</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 38</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.970908,44.68199833333333,51.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 39</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 39</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97091183333333,44.682063500000005,51.39999999999999</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 40</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 40</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97091266666666,44.68213133333334,51.39999999999999</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 41</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 41</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97091166666665,44.68219783333333,51.599999999999994</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 42</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 42</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97091316666668,44.68226383333334,51.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 43</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 43</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.970915,44.6823325,51.39999999999999</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 44</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 44</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97091549999999,44.68239933333333,51.099999999999994</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 45</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 45</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.9709145,44.68246649999999,51.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 46</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 46</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97091649999999,44.68253666666666,51.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 47</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 47</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97091533333331,44.68254433333333,51.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 48</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 48</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.9709565,44.68254716666667,51.39999999999999</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 49</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 49</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97095816666666,44.68248633333333,51.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 50</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 50</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97095716666665,44.68241883333334,51.099999999999994</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 51</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 51</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97095716666665,44.68235166666666,51.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 52</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 52</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97095566666667,44.68228583333333,51.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 53</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 53</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97095516666667,44.682218833333344,51.39999999999999</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 54</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 54</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97095333333333,44.682151999999995,51.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 55</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 55</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97095166666666,44.68208566666667,51.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 56</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 56</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97095133333333,44.682019833333335,51.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 57</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 57</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97095016666667,44.681952,51.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 58</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 58</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.9709505,44.681886000000006,51.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 59</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 59</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97094966666667,44.68181883333333,51.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 60</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 60</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97094983333332,44.68175766666666,51.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 61</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 61</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.9709475,44.68169116666667,51.099999999999994</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 62</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 62</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97094549999998,44.681618,51.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 63</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 63</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97094566666667,44.681545166666666,51.599999999999994</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 64</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 64</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97094100000002,44.68147283333333,51.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 65</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 65</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.9709425,44.68140616666666,51.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 66</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 66</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.9709425,44.68133866666667,51.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 67</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 67</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97094333333334,44.681270666666656,51.39999999999999</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 68</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 68</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.9709415,44.68120466666665,51.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 69</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 69</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.9709415,44.681139,51.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 70</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 70</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97094000000001,44.68107133333333,51.599999999999994</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 71</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 71</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97098166666669,44.681074833333334,51.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 72</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 72</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97098366666667,44.68113533333334,51.39999999999999</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 73</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 73</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.9709845,44.681200999999994,51.39999999999999</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 74</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 74</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97098466666665,44.681269499999985,51.39999999999999</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 75</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 75</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97098533333335,44.681336333333334,51.39999999999999</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 76</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 76</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97098533333335,44.681402666666656,51.39999999999999</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 77</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 77</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97098866666666,44.681469,51.39999999999999</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 78</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 78</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97098766666669,44.681537666666664,51.39999999999999</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 79</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 79</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97098483333333,44.681603333333335,51.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 80</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 80</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97098783333334,44.681670166666656,51.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 81</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 81</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97099150000001,44.68173566666667,51.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 82</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 82</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97098883333335,44.6818035,51.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 83</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 83</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97099283333333,44.68186983333334,51.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 84</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 84</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97099083333333,44.681934500000004,51.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 85</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 85</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97099433333334,44.68200466666667,51.099999999999994</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 86</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 86</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97099233333331,44.68207716666668,51.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 87</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 87</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.970994,44.68214366666666,51.39999999999999</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 88</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 88</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97099483333335,44.68221100000001,51.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 89</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 89</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97099683333333,44.68227716666667,51.39999999999999</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 90</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 90</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97099766666666,44.682343499999995,51.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 91</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 91</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97099500000002,44.68240916666667,51.39999999999999</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 92</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 92</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97099666666668,44.68247833333333,51.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 93</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 93</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97099733333334,44.682542,51.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 94</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 94</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.970998,44.682548833333335,51.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 95</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 95</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97083316666667,44.68253500000001,51.099999999999994</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 96</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 96</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97083,44.682477166666665,51.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 97</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 97</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.970829,44.682410499999996,51.39999999999999</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 98</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 98</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97083,44.68234250000001,51.39999999999999</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 99</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 99</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97082733333333,44.682277333333325,51.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 100</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 100</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97082683333336,44.68221033333332,51.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 101</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 101</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97082466666667,44.682142999999996,51.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 102</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 102</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97082583333335,44.68207616666667,51.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 103</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 103</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97082333333336,44.68200916666667,51.39999999999999</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 104</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 104</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97082733333333,44.68194366666667,51.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 105</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 105</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97082233333335,44.68187566666667,51.39999999999999</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 106</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 106</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97082266666665,44.68180783333334,51.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 107</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 107</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.970822,44.681741499999994,51.099999999999994</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 108</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 108</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97082100000002,44.68167483333333,51.099999999999994</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 109</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 109</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97081899999999,44.68160683333334,51.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 110</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 110</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.9708165,44.681540833333344,51.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 111</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 111</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97081549999999,44.6814745,51.599999999999994</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 112</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 112</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97081233333334,44.68140666666667,51.599999999999994</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 113</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 113</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97081566666667,44.681340333333345,51.39999999999999</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 114</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 114</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97081333333333,44.68127200000001,51.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 115</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 115</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97081233333334,44.68120533333334,51.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 116</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 116</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97081383333335,44.68113966666667,51.599999999999994</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 117</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 117</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.9708065,44.681074,51.599999999999994</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bushes 118</name>
+<description> <![CDATA[<h4>Layer: Bushes</h4><h4>Feature ID: 118</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Bushes-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97081316666664,44.68106599999999,51.599999999999994</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>Post</name>
+<visibility>1</visibility>
+<open>0</open>
+<Style id="Post-PointStyle">
+<IconStyle>
+<color>FF1E75A9</color>
+<scale>0.5</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
+</Icon>
+<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+</IconStyle>
+<LabelStyle>
+<scale>0</scale>
+</LabelStyle>
+</Style>
+<Style id="Post-Style">
+<LineStyle>
+<color>FF1E75A9</color>
+<width>3</width>
+</LineStyle>
+<PolyStyle>
+<color>501E75A9</color>
+</PolyStyle>
+</Style>
+<Placemark>
+<name>Post 119</name>
+<description> <![CDATA[<h4>Layer: Post</h4><h4>Feature ID: 119</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Post-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97081166666666,44.68105333333333,51.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Post 120</name>
+<description> <![CDATA[<h4>Layer: Post</h4><h4>Feature ID: 120</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Post-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97085666666665,44.681057833333334,51.599999999999994</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Post 121</name>
+<description> <![CDATA[<h4>Layer: Post</h4><h4>Feature ID: 121</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Post-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97089749999999,44.68106116666666,51.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Post 122</name>
+<description> <![CDATA[<h4>Layer: Post</h4><h4>Feature ID: 122</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Post-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97083300000001,44.68254149999999,51.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Post 123</name>
+<description> <![CDATA[<h4>Layer: Post</h4><h4>Feature ID: 123</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Post-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.970874,44.68254366666667,51.39999999999999</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Post 124</name>
+<description> <![CDATA[<h4>Layer: Post</h4><h4>Feature ID: 124</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Post-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97091833333334,44.6825505,51.599999999999994</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Post 125</name>
+<description> <![CDATA[<h4>Layer: Post</h4><h4>Feature ID: 125</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Post-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97095833333331,44.682552333333334,51.599999999999994</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Post 126</name>
+<description> <![CDATA[<h4>Layer: Post</h4><h4>Feature ID: 126</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Post-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97099916666667,44.6825555,51.599999999999994</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>

@@ -1,0 +1,6170 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>Bush Locations</name>
+    <Style id="red_dot_style">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+        <color>ff0000ff</color>
+        <scale>0.5</scale>
+      </IconStyle>
+    </Style>
+    <Style id="white_dot_style">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+        <color>ffffffff</color>
+        <scale>0.5</scale>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 1 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.972348,44.684188833333344</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 2 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234788095237,44.68417785714286</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 3 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234776190476,44.68416688095239</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 4 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234764285713,44.68415590476191</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 5 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234752380952,44.684144928571435</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 6 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234740476189,44.684133952380954</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 7 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234728571428,44.68412297619048</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 8 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234716666665,44.684112</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 9 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234716666665,44.68410106666666</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 10 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234716666665,44.68409013333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 11 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234716666665,44.6840792</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 12 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234716666665,44.684068266666664</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 13 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234716666665,44.68405733333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 14 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234716666665,44.68404639999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 15 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234716666665,44.68403546666666</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 16 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234716666665,44.68402453333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 17 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234716666665,44.68401359999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 18 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234716666665,44.68400266666666</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 19 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234684999998,44.683991649999996</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 20 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234653333332,44.68398063333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 21 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234621666666,44.68396961666666</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 22 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.9723459,44.6839586</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 23 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234558333332,44.683947583333335</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 24 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234526666666,44.68393656666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 25 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234495000001,44.68392555</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 26 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234463333334,44.683914533333336</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 27 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234431666666,44.683903516666675</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 28 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.972344,44.683892500000006</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 29 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234378333334,44.683881466666676</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 30 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234356666667,44.68387043333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 31 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234335,44.6838594</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 32 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234313333333,44.68384836666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 33 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234291666666,44.683837333333344</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 34 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.9723427,44.68382630000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 35 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234248333332,44.68381526666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 36 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234226666666,44.68380423333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 37 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234204999998,44.68379320000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 38 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234168333333,44.683771266666675</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 39 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234153333332,44.683760366666675</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 40 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234138333332,44.68374946666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 41 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234123333332,44.68373856666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 42 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234108333333,44.68372766666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 43 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234093333333,44.68371676666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 44 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234078333332,44.68370586666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 45 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234063333333,44.683694966666664</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 46 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234048333334,44.683684066666665</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 47 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234033333334,44.683673166666665</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 48 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234051666666,44.683662299999995</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 49 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.9723407,44.68365143333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 50 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234088333333,44.68364056666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 51 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234106666667,44.6836297</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 52 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234143333333,44.68360796666666</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 53 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234161666667,44.6835971</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 54 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.9723418,44.68358623333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 55 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234198333334,44.68357536666666</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 56 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234216666666,44.683564499999996</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 57 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.9723419,44.68355356666666</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 58 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234163333333,44.68354263333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 59 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234136666667,44.683531699999996</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 60 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.9723411,44.68352076666666</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 61 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234083333333,44.68350983333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 62 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234056666667,44.6834989</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 63 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.9723403,44.68348796666666</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 64 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97234003333334,44.683477033333325</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 65 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233976666666,44.6834661</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 66 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.9723395,44.68345516666666</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 67 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233946666667,44.683444249999994</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 68 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233943333333,44.683433333333326</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 69 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233940000001,44.683422416666666</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 70 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233936666667,44.6834115</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 71 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233933333334,44.68340058333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 72 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.9723393,44.68338966666666</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 73 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233926666667,44.683378749999996</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 74 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233923333334,44.683367833333335</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 75 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233920000001,44.68335691666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 76 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233916666667,44.683346</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 77 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233895000001,44.68333483333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 78 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233873333333,44.683323666666666</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 79 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233851666667,44.6833125</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 80 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.9723383,44.68330133333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 81 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233808333334,44.683290166666666</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 82 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233786666666,44.683279</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 83 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233765,44.68326783333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 84 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233743333334,44.683256666666665</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 85 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233721666666,44.6832455</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 86 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.972337,44.68323433333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 87 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233691666666,44.683223633333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 88 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233683333333,44.68321293333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 89 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233675,44.68320223333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 90 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233666666666,44.683191533333336</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 91 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233658333333,44.68318083333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 92 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.9723365,44.683170133333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 93 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233641666666,44.68315943333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 94 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233633333333,44.68314873333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 95 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233625,44.683138033333336</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 96 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233616666666,44.68312733333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 97 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233601666666,44.68311645000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 98 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233586666667,44.68310556666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 99 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233571666666,44.68309468333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 100 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233556666666,44.6830838</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 101 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233541666665,44.68307291666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 102 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233526666666,44.683062033333336</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 103 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233496666665,44.683040266666666</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 104 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233481666666,44.68302938333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 105 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233466666665,44.683018499999996</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 106 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233433333332,44.68300768333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 107 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233399999999,44.68299686666666</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 108 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233366666666,44.68298605</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 109 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233333333332,44.68297523333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 110 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233299999999,44.682964416666664</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 111 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233266666666,44.6829536</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 112 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233233333333,44.68294278333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 113 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.972332,44.682931966666665</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 114 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233166666666,44.68292115</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 115 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233133333333,44.68291033333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 116 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233134999999,44.682899383333336</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 117 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233136666667,44.68288843333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 118 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233138333333,44.682877483333336</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 119 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233139999999,44.68286653333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 120 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233141666666,44.682855583333335</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 121 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233143333332,44.68284463333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 122 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233144999998,44.68283368333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 123 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233146666665,44.682822733333346</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 124 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233148333332,44.68281178333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 125 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233149999998,44.682800833333346</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 126 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233124999998,44.682790020833345</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 127 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.972331,44.68277920833334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 128 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233075,44.68276839583334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 129 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.9723305,44.68275758333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 130 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233025,44.68274677083333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 131 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97233,44.68273595833333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 132 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97232950000001,44.68271433333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 133 
+ Group number: 1 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97232950000001,44.68270666666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 1 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97231099999999,44.68419133333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 2 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97231072222222,44.68418040740741</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 3 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97231044444443,44.68416948148148</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 4 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97231016666666,44.68415855555556</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 5 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230988888889,44.684147629629635</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 6 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.9723096111111,44.68413670370371</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 7 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230933333333,44.68412577777778</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 8 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230905555556,44.68411485185186</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 9 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230877777777,44.68410392592593</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 10 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.9723085,44.684093000000004</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 11 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230825,44.68408191666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 12 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.972308,44.68407083333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 13 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230775,44.68405975</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 14 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.9723075,44.68404866666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 15 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230725,44.684037583333335</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 16 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230699999999,44.6840265</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 17 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230674999999,44.68401541666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 18 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230649999999,44.684004333333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 19 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230624999999,44.68399325</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 20 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230599999999,44.68398216666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 21 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230586666666,44.68397108333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 22 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230573333333,44.68396</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 23 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230559999998,44.683948916666665</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 24 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230546666665,44.68393783333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 25 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230533333332,44.68392675</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 26 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.9723052,44.68391566666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 27 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230506666666,44.68390458333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 28 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230493333332,44.6838935</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 29 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230479999999,44.68388241666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 30 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230466666666,44.683871333333336</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 31 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230458333333,44.68386035</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 32 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230449999999,44.68384936666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 33 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230441666666,44.68383838333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 34 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230433333333,44.683827400000006</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 35 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230425,44.68381641666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 36 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230416666666,44.68380543333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 37 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230408333333,44.68379445000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 38 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.972304,44.683783466666675</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 39 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230391666666,44.68377248333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 40 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230383333333,44.68376150000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 41 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230373333333,44.683750450000005</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 42 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230363333333,44.68373940000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 43 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230353333333,44.68372835</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 44 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230343333334,44.683717300000005</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 45 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230333333334,44.68370625</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 46 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230323333334,44.683695199999995</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 47 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230313333334,44.68368415</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 48 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230303333335,44.68367309999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 49 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230293333334,44.683662049999995</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 50 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230283333334,44.68365099999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 51 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230253333335,44.683640049999994</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 52 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230223333334,44.68362909999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 53 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230193333334,44.683618149999994</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 54 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230163333333,44.68360719999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 55 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230133333333,44.683596249999994</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 56 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230103333334,44.6835853</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 57 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230073333333,44.683574349999994</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 58 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230043333333,44.6835634</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 59 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230013333332,44.68355244999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 60 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229983333332,44.6835415</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 61 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229996666665,44.68353053333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 62 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230009999998,44.68351956666666</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 63 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230023333333,44.683508599999996</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 64 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230036666666,44.68349763333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 65 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230049999999,44.68348666666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 66 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230063333332,44.683475699999995</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 67 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230076666665,44.68346473333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 68 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.9723009,44.683453766666666</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 69 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230103333332,44.683442799999995</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 70 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230116666665,44.68343183333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 71 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230098333333,44.68342053333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 72 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230079999999,44.68340923333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 73 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230061666666,44.68339793333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 74 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230043333333,44.683386633333335</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 75 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230024999999,44.68337533333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 76 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97230006666666,44.68336403333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 77 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229988333333,44.68335273333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 78 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229970000001,44.68334143333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 79 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229951666667,44.683330133333335</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 80 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229933333334,44.68331883333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 81 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229923333335,44.683307866666674</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 82 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229913333334,44.6832969</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 83 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229903333334,44.68328593333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 84 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229893333333,44.683274966666666</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 85 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229883333334,44.683264</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 86 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229873333335,44.68325303333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 87 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229863333334,44.683242066666665</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 88 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229853333334,44.6832311</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 89 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229843333334,44.68322013333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 90 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229833333334,44.683209166666664</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 91 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229801666667,44.68319823333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 92 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.9722977,44.6831873</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 93 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229738333334,44.683176366666665</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 94 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229706666667,44.683165433333336</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 95 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229675,44.6831545</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 96 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229643333333,44.683143566666665</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 97 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229611666666,44.68313263333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 98 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.9722958,44.6831217</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 99 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229548333333,44.68311076666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 100 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229516666665,44.68309983333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 101 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229513333332,44.683088833333336</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 102 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.9722951,44.683077833333336</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 103 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229506666666,44.683066833333335</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 104 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229503333332,44.683055833333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 105 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.972295,44.68304483333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 106 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229496666667,44.68303383333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 107 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229493333333,44.68302283333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 108 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.9722949,44.68301183333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 109 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229486666667,44.68300083333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 110 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229483333334,44.68298983333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 111 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229468333333,44.68297866666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 112 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229453333334,44.682967500000004</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 113 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229438333333,44.68295633333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 114 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229423333334,44.68294516666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 115 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229408333334,44.682934</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 116 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229393333333,44.68292283333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 117 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229378333334,44.68291166666666</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 118 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229363333334,44.682900499999995</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 119 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229348333335,44.68288933333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 120 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229333333334,44.68287816666666</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 121 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229348333335,44.682867099999996</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 122 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229363333334,44.68285603333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 123 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229378333334,44.682844966666664</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 124 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229393333333,44.6828339</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 125 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229408333334,44.68282283333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 126 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229423333334,44.68281176666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 127 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229438333333,44.6828007</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 128 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229453333334,44.682789633333336</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 129 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229468333333,44.68277856666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 130 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229483333334,44.682767500000004</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 131 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.972294,44.682756633333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 132 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229316666667,44.68274576666666</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 133 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229233333333,44.6827349</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 134 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.9722915,44.68272403333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 135 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97229066666667,44.68271316666666</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 136 
+ Group number: 2 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.9722905,44.682706833333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 1 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97227200000002,44.684193500000006</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 2 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97227207407408,44.68417138888889</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 3 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97227211111112,44.68416033333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 4 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97227214814815,44.684149277777784</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 5 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97227218518519,44.684138222222224</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 6 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97227222222222,44.68412716666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 7 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97227225925926,44.684116111111116</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 8 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97227229629628,44.684105055555555</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 9 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97227233333332,44.684094</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 10 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97227216666666,44.68408303333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 11 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97227199999999,44.684072066666666</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 12 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97227183333332,44.6840611</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 13 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97227166666666,44.684050133333336</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 14 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97227149999999,44.684039166666665</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 15 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97227133333332,44.6840282</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 16 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97227116666666,44.684017233333336</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 17 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97227099999999,44.68400626666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 18 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97227083333333,44.6839953</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 19 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97227066666666,44.683984333333335</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 20 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97227031666667,44.68397341666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 21 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226996666666,44.6839625</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 22 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226961666667,44.68395158333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 23 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226926666667,44.683940666666665</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 24 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226891666668,44.683929750000004</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 25 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226856666667,44.68391883333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 26 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226821666668,44.68390791666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 27 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226786666668,44.683897</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 28 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226751666668,44.683886083333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 29 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226716666668,44.68387516666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 30 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226705000001,44.68386405</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 31 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226693333334,44.683852933333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 32 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226681666669,44.68384181666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 33 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226670000002,44.6838307</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 34 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226658333335,44.68381958333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 35 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226646666668,44.68380846666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 36 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226635000001,44.683797350000006</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 37 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226623333336,44.683786233333336</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 38 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226611666669,44.683775116666666</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 39 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226600000002,44.683764000000004</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 40 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226583333335,44.6837529</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 41 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226566666669,44.6837418</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 42 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.9722655,44.683730700000005</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 43 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226533333334,44.6837196</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 44 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226516666667,44.6837085</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 45 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226500000001,44.6836974</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 46 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226483333334,44.6836863</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 47 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226466666666,44.6836752</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 48 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.9722645,44.6836641</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 49 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226433333333,44.683653</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 50 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226425,44.68364201666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 51 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226416666666,44.683631033333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 52 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226408333333,44.68362005</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 53 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.972264,44.68360906666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 54 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226391666666,44.68359808333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 55 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226383333333,44.683587100000004</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 56 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226375,44.68357611666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 57 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226366666666,44.68356513333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 58 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226358333333,44.683554150000006</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 59 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.9722635,44.683543166666674</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 60 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226345,44.683532050000004</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 61 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226339999999,44.68352093333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 62 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226334999999,44.68350981666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 63 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.9722633,44.6834987</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 64 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226325,44.68348758333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 65 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226319999999,44.68347646666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 66 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226314999999,44.68346535</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 67 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226309999999,44.68345423333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 68 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226304999998,44.683443116666666</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 69 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226299999998,44.683431999999996</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 70 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226273333332,44.6834211</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 71 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226246666665,44.6834102</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 72 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226219999999,44.6833993</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 73 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226193333331,44.6833884</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 74 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226166666665,44.6833775</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 75 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.9722614,44.6833666</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 76 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226113333332,44.6833557</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 77 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226086666666,44.6833448</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 78 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226059999998,44.6833339</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 79 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226033333332,44.683323</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 80 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226033333332,44.6833121</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 81 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226033333332,44.6833012</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 82 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226033333332,44.6832903</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 83 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226033333332,44.6832794</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 84 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226033333332,44.6832685</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 85 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226033333332,44.6832576</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 86 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226033333332,44.6832467</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 87 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226033333332,44.6832358</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 88 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226033333332,44.6832249</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 89 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226033333332,44.683214</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 90 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97226001666665,44.68320285</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 91 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.9722597,44.6831917</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 92 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97225938333332,44.683180549999996</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 93 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97225906666667,44.6831694</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 94 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97225875,44.68315825</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 95 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97225843333332,44.6831471</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 96 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97225811666667,44.68313595</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 97 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.9722578,44.683124799999995</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 98 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97225748333334,44.683113649999996</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 99 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97225716666667,44.6831025</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 100 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97225714999999,44.68309143333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 101 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97225713333333,44.683080366666665</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 102 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97225711666667,44.6830693</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 103 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.9722571,44.683058233333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 104 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97225708333332,44.68304716666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 105 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97225706666666,44.6830361</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 106 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97225705,44.68302503333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 107 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97225703333332,44.68301396666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 108 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97225701666665,44.683002900000005</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 109 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97225699999998,44.68299183333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 110 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97225669999999,44.68298085000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 111 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.9722561,44.682958883333335</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 112 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.9722558,44.6829479</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 113 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.9722555,44.68293691666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 114 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.9722552,44.68292593333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 115 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97225490000001,44.682914950000004</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 116 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97225460000001,44.682903966666665</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 117 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97225430000002,44.68289298333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 118 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97225400000002,44.682882</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 119 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97225403333336,44.682871049999996</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 120 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97225406666668,44.6828601</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 121 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97225410000001,44.682849149999996</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 122 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97225413333334,44.6828382</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 123 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97225416666667,44.682827249999995</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 124 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97225420000001,44.68281629999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 125 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97225423333333,44.682805349999995</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 126 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97225426666667,44.68279439999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 127 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97225429999999,44.682783449999995</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 128 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97225433333332,44.68277249999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 129 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97225405555555,44.68276155555555</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 130 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97225377777777,44.6827506111111</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 131 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.9722535,44.68273966666666</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 132 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97225322222222,44.68272872222222</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 133 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97225294444443,44.682717777777775</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 134 
+ Group number: 3 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97225266666666,44.682706833333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 1 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.972234,44.684193500000006</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 2 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.9722341388889,44.68418288888889</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 3 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97223427777777,44.68417227777778</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 4 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97223441666667,44.68416166666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 5 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97223455555556,44.68415105555555</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 6 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97223469444444,44.684140444444445</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 7 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97223483333333,44.68412983333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 8 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97223455,44.6841187</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 9 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97223426666666,44.68410756666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 10 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97223398333333,44.68409643333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 11 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97223369999999,44.6840853</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 12 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97223341666665,44.68407416666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 13 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97223313333333,44.68406303333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 14 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97223285,44.68405190000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 15 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97223256666666,44.68404076666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 16 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97223228333333,44.68402963333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 17 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97223199999999,44.68401850000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 18 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97223156666666,44.68400756666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 19 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97223113333332,44.683996633333344</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 20 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97223069999998,44.68398570000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 21 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97223026666666,44.68397476666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 22 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222983333333,44.68396383333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 23 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222939999999,44.68395290000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 24 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222896666665,44.68394196666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 25 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222853333332,44.68393103333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 26 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.9722281,44.68392010000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 27 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222766666665,44.68390916666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 28 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222743333333,44.68389818333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 29 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222719999999,44.68388720000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 30 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222696666665,44.683876216666675</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 31 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222673333333,44.68386523333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 32 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.9722265,44.68385425000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 33 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222626666667,44.68384326666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 34 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222603333333,44.68383228333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 35 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.9722258,44.683821300000005</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 36 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222556666668,44.68381031666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 37 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222533333334,44.68379933333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 38 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222538333334,44.68378841666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 39 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222543333334,44.683777500000005</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 40 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222548333333,44.68376658333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 41 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222553333333,44.68375566666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 42 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222558333333,44.68374475</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 43 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222563333332,44.68373383333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 44 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222568333332,44.683722916666675</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 45 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222573333332,44.68371200000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 46 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222578333331,44.68370108333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 47 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222583333331,44.68369016666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 48 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222576666664,44.68367918333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 49 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222569999998,44.68366820000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 50 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222563333332,44.683657216666674</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 51 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222556666665,44.68364623333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 52 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222549999998,44.68363525000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 53 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222543333332,44.68362426666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 54 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222536666666,44.68361328333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 55 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222529999999,44.683602300000004</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 56 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222523333332,44.68359131666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 57 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222516666666,44.68358033333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 58 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222491666666,44.683569250000005</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 59 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222466666666,44.68355816666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 60 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222441666666,44.68354708333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 61 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222416666666,44.683536000000004</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 62 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222391666666,44.68352491666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 63 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222366666666,44.683513833333336</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 64 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222341666667,44.68350275</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 65 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222316666667,44.68349166666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 66 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222291666667,44.683480583333335</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 67 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222266666667,44.6834695</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 68 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222271666666,44.68345876666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 69 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222276666666,44.683448033333335</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 70 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222281666667,44.6834373</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 71 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222286666667,44.68342656666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 72 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222291666667,44.683415833333335</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 73 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222296666666,44.6834051</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 74 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222301666666,44.68339436666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 75 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222306666667,44.683383633333335</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 76 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222311666667,44.6833729</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 77 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222316666667,44.68336216666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 78 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.9722228,44.68335093333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 79 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222243333333,44.683339700000005</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 80 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222206666667,44.683328466666666</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 81 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.9722217,44.683317233333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 82 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222133333334,44.683306</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 83 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222096666667,44.68329476666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 84 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.9722206,44.68328353333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 85 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97222023333335,44.6832723</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 86 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97221986666668,44.68326106666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 87 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97221950000001,44.683249833333335</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 88 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97221946666667,44.68323901666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 89 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97221943333334,44.6832282</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 90 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.9722194,44.683217383333336</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 91 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97221936666666,44.68320656666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 92 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97221933333333,44.68319575</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 93 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.9722193,44.68318493333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 94 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97221926666667,44.68317411666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 95 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97221923333333,44.683163300000004</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 96 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.9722192,44.68315248333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 97 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97221916666666,44.68314166666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 98 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97221921666666,44.68313056666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 99 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97221926666666,44.683119466666675</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 100 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97221931666667,44.68310836666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 101 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97221936666666,44.68309726666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 102 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97221941666666,44.68308616666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 103 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97221946666666,44.683075066666675</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 104 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97221951666666,44.68306396666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 105 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97221956666667,44.68305286666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 106 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97221961666666,44.683041766666676</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 107 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97221966666666,44.683030666666674</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 108 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97221948333333,44.68301961666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 109 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97221929999999,44.68300856666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 110 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97221911666666,44.682997516666674</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 111 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97221893333334,44.68298646666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 112 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97221875,44.682975416666665</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 113 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97221856666667,44.68296436666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 114 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97221838333334,44.68295331666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 115 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97221820000001,44.682942266666664</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 116 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97221801666667,44.68293121666666</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 117 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97221783333335,44.68292016666666</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 118 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97221758333335,44.68290903333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 119 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97221733333335,44.68289789999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 120 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97221708333335,44.68288676666666</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 121 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97221683333335,44.68287563333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 122 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97221658333335,44.682864499999994</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 123 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97221633333335,44.68285336666666</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 124 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97221608333335,44.68284223333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 125 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97221583333335,44.6828311</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 126 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97221558333335,44.68281996666666</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 127 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97221533333335,44.68280883333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 128 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.9722150925926,44.682797944444445</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 129 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97221485185186,44.68278705555556</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 130 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97221461111113,44.68277616666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 131 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97221437037038,44.68276527777778</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 132 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97221412962963,44.68275438888889</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 133 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97221388888889,44.6827435</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 134 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97221364814816,44.68273261111111</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 135 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97221340740741,44.682721722222226</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 136 
+ Group number: 4 
+ Group type: Inner Row</description>
+      <Point>
+        <coordinates>-122.97221316666666,44.68271083333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 1 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97219516666667,44.6841955</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 2 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97219540740741,44.68418446296296</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 3 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97219564814816,44.68417342592593</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 4 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97219588888889,44.684162388888886</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 5 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97219612962964,44.684151351851845</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 6 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97219637037038,44.68414031481481</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 7 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97219661111113,44.68412927777777</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 8 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97219685185186,44.68411824074073</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 9 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97219709259261,44.6841072037037</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 10 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97219733333336,44.684096166666656</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 11 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97219698333336,44.68408529999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 12 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97219663333335,44.68407443333332</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 13 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97219628333335,44.68406356666666</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 14 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97219593333335,44.684052699999995</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 15 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97219558333336,44.684041833333325</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 16 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97219523333335,44.68403096666666</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 17 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97219488333334,44.6840201</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 18 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97219453333335,44.684009233333335</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 19 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97219418333336,44.683998366666664</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 20 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97219383333335,44.6839875</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 21 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97219363333335,44.68397648333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 22 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97219343333335,44.68396546666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 23 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97219323333334,44.68395445</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 24 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97219303333334,44.68394343333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 25 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97219283333334,44.683932416666664</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 26 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97219263333334,44.6839214</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 27 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97219243333333,44.683910383333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 28 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97219223333333,44.683899366666665</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 29 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97219183333333,44.683877333333335</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 30 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97219173333333,44.68386623333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 31 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97219163333332,44.68385513333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 32 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97219153333333,44.68384403333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 33 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97219143333332,44.68383293333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 34 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97219133333333,44.68382183333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 35 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97219123333333,44.68381073333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 36 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97219113333333,44.683799633333344</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 37 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97219103333333,44.68378853333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 38 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97219093333332,44.68377743333335</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 39 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97219083333333,44.683766333333345</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 40 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97219059999999,44.68375545000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 41 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97219036666667,44.683744566666675</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 42 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97219013333333,44.683733683333344</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 43 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.9721899,44.683722800000005</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 44 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218966666667,44.68371191666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 45 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218943333333,44.683701033333335</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 46 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.9721892,44.683690150000004</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 47 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218896666666,44.683679266666665</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 48 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218873333334,44.68366838333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 49 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.9721885,44.683657499999995</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 50 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.9721883,44.68364663333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 51 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218810000001,44.68363576666666</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 52 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218790000001,44.6836249</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 53 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.9721877,44.68361403333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 54 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218750000002,44.683603166666664</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 55 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218730000002,44.6835923</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 56 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218710000001,44.68358143333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 57 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218690000001,44.68357056666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 58 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218670000002,44.683559699999996</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 59 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218650000002,44.68354883333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 60 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218621666669,44.6835375</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 61 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218593333335,44.68352616666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 62 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218565000001,44.683514833333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 63 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218536666668,44.6835035</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 64 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218508333334,44.68349216666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 65 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218480000001,44.68348083333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 66 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218451666667,44.683469499999994</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 67 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218423333334,44.68345816666666</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 68 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218395,44.68344683333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 69 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218366666667,44.683435499999995</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 70 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.9721837,44.683424483333326</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 71 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218373333332,44.683413466666664</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 72 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218376666666,44.68340245</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 73 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.9721838,44.683391433333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 74 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218383333333,44.683380416666665</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 75 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218386666665,44.683369400000004</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 76 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218389999999,44.68335838333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 77 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218393333333,44.68334736666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 78 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218396666665,44.683336350000005</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 79 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218399999998,44.68332533333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 80 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218376666666,44.68331445000001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 81 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218353333332,44.68330356666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 82 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.9721833,44.683292683333335</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 83 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218306666666,44.6832818</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 84 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218283333333,44.68327091666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 85 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218260000001,44.68326003333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 86 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218236666667,44.683249149999995</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 87 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218213333335,44.68323826666666</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 88 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218190000001,44.68322738333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 89 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218166666669,44.68321649999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 90 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218161666669,44.68320555</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 91 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218156666668,44.68319459999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 92 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218151666668,44.68318365</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 93 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218146666668,44.68317269999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 94 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218141666667,44.68316175</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 95 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218136666667,44.6831508</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 96 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218131666668,44.683139849999996</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 97 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218126666668,44.6831289</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 98 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218121666667,44.683117949999996</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 99 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218116666667,44.683107</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 100 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218111666668,44.68309596666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 101 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218106666668,44.68308493333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 102 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218101666667,44.6830739</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 103 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218096666667,44.68306286666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 104 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218091666667,44.68305183333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 105 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218086666668,44.6830408</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 106 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218081666668,44.683029766666664</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 107 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218076666667,44.683018733333334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 108 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218071666667,44.683007700000005</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 109 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218066666667,44.68299666666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 110 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218053333334,44.68298576666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 111 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218040000001,44.68297486666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 112 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218026666668,44.68296396666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 113 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218013333335,44.68295306666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 114 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97218000000001,44.68294216666666</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 115 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97217986666668,44.682931266666664</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 116 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97217973333335,44.682920366666664</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 117 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97217960000002,44.682909466666665</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 118 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97217946666669,44.682898566666665</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 119 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97217933333336,44.682887666666666</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 120 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97217913333336,44.682876766666666</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 121 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97217893333335,44.68286586666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 122 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97217873333335,44.68285496666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 123 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97217853333335,44.68284406666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 124 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97217833333335,44.68283316666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 125 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97217813333334,44.68282226666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 126 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97217793333334,44.68281136666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 127 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97217773333334,44.68280046666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 128 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97217753333334,44.68278956666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 129 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97217733333333,44.68277866666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 130 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97217719444444,44.682767250000005</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 131 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97217705555556,44.68275583333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 132 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97217691666667,44.682744416666665</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 133 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.97217677777778,44.682733</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 134 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.9721766388889,44.682721583333326</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#red_dot_style</styleUrl>
+      <description>Bush number: 135 
+ Group number: 5 
+ Group type: Boundary Row</description>
+      <Point>
+        <coordinates>-122.9721765,44.68271016666666</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#white_dot_style</styleUrl>
+      <description>Group number: 6 
+ Group type: Post</description>
+      <Point>
+        <coordinates>-122.97219516666667,44.684206999999994</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#white_dot_style</styleUrl>
+      <description>Group number: 6 
+ Group type: Post</description>
+      <Point>
+        <coordinates>-122.97223483333333,44.68420416666667</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#white_dot_style</styleUrl>
+      <description>Group number: 6 
+ Group type: Post</description>
+      <Point>
+        <coordinates>-122.97231216666667,44.6842015</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#white_dot_style</styleUrl>
+      <description>Group number: 6 
+ Group type: Post</description>
+      <Point>
+        <coordinates>-122.97227283333335,44.6842015</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#white_dot_style</styleUrl>
+      <description>Group number: 6 
+ Group type: Post</description>
+      <Point>
+        <coordinates>-122.97234949999998,44.6841985</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#white_dot_style</styleUrl>
+      <description>Group number: 6 
+ Group type: Post</description>
+      <Point>
+        <coordinates>-122.97221383333331,44.68270283333332</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#white_dot_style</styleUrl>
+      <description>Group number: 6 
+ Group type: Post</description>
+      <Point>
+        <coordinates>-122.97225416666667,44.68270233333333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#white_dot_style</styleUrl>
+      <description>Group number: 6 
+ Group type: Post</description>
+      <Point>
+        <coordinates>-122.97232899999999,44.682702166666665</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#white_dot_style</styleUrl>
+      <description>Group number: 6 
+ Group type: Post</description>
+      <Point>
+        <coordinates>-122.97229316666666,44.682702000000006</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <styleUrl>#white_dot_style</styleUrl>
+      <description>Group number: 6 
+ Group type: Post</description>
+      <Point>
+        <coordinates>-122.97217700000002,44.68270183333334</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

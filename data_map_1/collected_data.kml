@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Blueberry Farm</name>
+<open>0</open>
+<description>Exported using SW Maps</description>
+<Folder>
+<name>Points</name>
+<visibility>1</visibility>
+<open>0</open>
+<Style id="Points-PointStyle">
+<IconStyle>
+<color>FF52540B</color>
+<scale>0.5</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
+</Icon>
+<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+</IconStyle>
+<LabelStyle>
+<scale>0</scale>
+</LabelStyle>
+</Style>
+<Style id="Points-Style">
+<LineStyle>
+<color>FF52540B</color>
+<width>3</width>
+</LineStyle>
+<PolyStyle>
+<color>5052540B</color>
+</PolyStyle>
+</Style>
+<Placemark>
+<name>Points 1</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 1</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97231216666667,44.6842015,51.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 2</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 2</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97231099999999,44.68419133333334,51.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 3</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 3</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.9723085,44.684093000000004,51.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 4</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 4</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97230599999999,44.68398216666667,51.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 5</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 5</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97230466666666,44.683871333333336,51.39999999999999</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 6</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 6</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97230383333333,44.68376150000001,51.599999999999994</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 7</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 7</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97230283333334,44.68365099999999,51.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 8</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 8</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97229983333332,44.6835415,51.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 9</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 9</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97230116666665,44.68343183333333,51.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 10</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 10</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97229933333334,44.68331883333334,51.599999999999994</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 11</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 11</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97229833333334,44.683209166666664,51.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 12</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 12</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97229516666665,44.68309983333334,52.099999999999994</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 13</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 13</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97229483333334,44.68298983333334,51.89999999999999</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 14</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 14</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97229333333334,44.68287816666666,51.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 15</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 15</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97229483333334,44.682767500000004,51.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 16</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 16</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97229066666667,44.68271316666666,51.599999999999994</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 17</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 17</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.9722905,44.682706833333334,51.599999999999994</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 18</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 18</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97229316666666,44.682702000000006,51.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 19</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 19</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97232899999999,44.682702166666665,51.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 20</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 20</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97232950000001,44.68270666666667,51.599999999999994</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 21</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 21</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97232950000001,44.68271433333333,51.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 22</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 22</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97233149999998,44.682800833333346,51.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 23</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 23</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97233133333333,44.68291033333333,51.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 24</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 24</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97233466666665,44.683018499999996,51.89999999999999</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 25</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 25</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97233616666666,44.68312733333334,51.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 26</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 26</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.972337,44.68323433333333,51.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 27</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 27</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97233916666667,44.683346,51.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 28</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 28</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.9723395,44.68345516666666,51.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 29</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 29</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97234216666666,44.683564499999996,51.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 30</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 30</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97234033333334,44.683673166666665,51.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 31</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 31</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97234183333332,44.683782166666674,51.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 32</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 32</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.972344,44.683892500000006,51.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 33</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 33</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97234716666665,44.68400266666666,51.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 34</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 34</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97234716666665,44.684112,51.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 35</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 35</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.972348,44.684188833333344,51.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 36</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 36</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97234949999998,44.6841985,51.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 37</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 37</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97227200000002,44.684193500000006,51.099999999999994</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 38</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 38</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97227283333335,44.6842015,51.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 39</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 39</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97227233333332,44.684094,51.099999999999994</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 40</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 40</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97227066666666,44.683984333333335,51.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 41</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 41</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97226716666668,44.68387516666667,51.39999999999999</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 42</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 42</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97226600000002,44.683764000000004,51.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 43</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 43</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97226433333333,44.683653,51.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 44</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 44</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.9722635,44.683543166666674,51.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 45</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 45</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97226299999998,44.683431999999996,51.599999999999994</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 46</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 46</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97226033333332,44.683323,51.599999999999994</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 47</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 47</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97226033333332,44.683214,51.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 48</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 48</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97225716666667,44.6831025,51.89999999999999</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 49</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 49</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97225699999998,44.68299183333334,51.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 50</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 50</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97225400000002,44.682882,51.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 51</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 51</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97225433333332,44.68277249999999,51.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 52</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 52</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97225266666666,44.682706833333334,51.599999999999994</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 53</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 53</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97225416666667,44.68270233333333,51.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 54</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 54</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97221383333331,44.68270283333332,51.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 55</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 55</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97221316666666,44.68271083333334,51.599999999999994</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 56</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 56</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97221533333335,44.68280883333333,51.599999999999994</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 57</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 57</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97221783333335,44.68292016666666,51.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 58</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 58</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97221966666666,44.683030666666674,51.89999999999999</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 59</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 59</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97221916666666,44.68314166666667,51.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 60</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 60</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97221950000001,44.683249833333335,51.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 61</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 61</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97222316666667,44.68336216666667,51.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 62</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 62</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97222266666667,44.6834695,51.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 63</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 63</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97222516666666,44.68358033333334,51.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 64</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 64</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97222583333331,44.68369016666667,51.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 65</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 65</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97222533333334,44.68379933333334,51.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 66</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 66</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97222766666665,44.68390916666667,51.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 67</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 67</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97223199999999,44.68401850000001,51.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 68</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 68</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97223483333333,44.68412983333333,51.099999999999994</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 69</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 69</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.972234,44.684193500000006,51.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 70</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 70</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97223483333333,44.68420416666667,51.099999999999994</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 71</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 71</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97219516666667,44.684206999999994,51.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 72</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 72</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97219516666667,44.6841955,51.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 73</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 73</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97219733333336,44.684096166666656,51.2</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 74</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 74</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97219383333335,44.6839875,51.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 75</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 75</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97219183333333,44.683877333333335,51.3</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 76</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 76</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97219083333333,44.683766333333345,51.39999999999999</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 77</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 77</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.9721885,44.683657499999995,51.39999999999999</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 78</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 78</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97218650000002,44.68354883333333,51.599999999999994</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 79</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 79</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97218366666667,44.683435499999995,51.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 80</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 80</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97218399999998,44.68332533333334,51.39999999999999</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 81</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 81</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97218166666669,44.68321649999999,51.599999999999994</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 82</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 82</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97218116666667,44.683107,51.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 83</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 83</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97218066666667,44.68299666666667,51.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 84</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 84</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97217933333336,44.682887666666666,51.8</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 85</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 85</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97217733333333,44.68277866666667,51.7</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 86</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 86</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.9721765,44.68271016666666,51.599999999999994</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Points 87</name>
+<description> <![CDATA[<h4>Layer: Points</h4><h4>Feature ID: 87</h4><p>Remarks: </p><p>Fix Quality: RTK Fix</p>]]></description>
+<styleUrl>#Points-PointStyle</styleUrl>
+<Point>
+<coordinates>-122.97217700000002,44.68270183333334,51.5</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>
