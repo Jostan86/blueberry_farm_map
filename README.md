@@ -3,6 +3,18 @@ Some notebooks/scripts for making the map of the test region of the blueberry fa
 <!-- ![Image](data_map_2/blueberry_farm_map.png){: width="50%"} -->
 <img src="data_map_2/blueberry_farm_map.png" alt="Image" style="width:50%;">
 
+### View the Map in Google Earth
+
+To view the map in Google Earth:
+
+1. [Download the KML file](https://github.com/Jostan86/blueberry_farm_map/raw/main/data_map_2/blueberry_farm_map.kml).
+2. Open [Google Earth](https://earth.google.com/web/).
+3. Click on the menu icon and select "File" > "Import KML / KMZ file".
+4. Select the downloaded KML file to view the map.
+
+Alternatively, you can open Google Earth and drag the downloaded KML file directly into the browser window.
+
+
 ## Installation
 Download the package:
 ```bash
