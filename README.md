@@ -1,6 +1,5 @@
 ## Overview
 Some notebooks/scripts for making the map of the test region of the blueberry farm. 
-<!-- ![Image](data_map_2/blueberry_farm_map.png){: width="50%"} -->
 <img src="data_map_2/blueberry_farm_map.png" alt="Image" style="width:50%;">
 
 ### View the Map in Google Earth
@@ -33,7 +32,7 @@ Activate the venv with:
 source /venv/location/bin/activate
 ```
 
-Then the requirements installed with:
+Then the requirements can be installed with:
 ```bash
 cd /path/to/blueberry_farm_map
 pip install -r requirements.txt
@@ -50,5 +49,7 @@ cd /path/to/blueberry_farm_map
 chmod +x scripts/extract_kml_from_kmz.sh
 ./scripts/extract_kml_from_kmz.sh data_map_1/collected_data.kmz data_map_1/collected_data.kml
 ```
+```scripts/project_config.py``` provides some configuration settings that will need to be set, primarily it's just paths for the project. Most importantly, the ```self.project_dir``` and ```self.data_dir``` variables will need to be set to the correct values. 
+
 Then the notebooks ```make_map_1.ipynb``` and ```make_map_2.ipynb``` provide details on how the maps were created using the data in the .kml file. 
 
