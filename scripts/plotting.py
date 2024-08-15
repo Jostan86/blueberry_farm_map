@@ -86,13 +86,16 @@ def plot_points(points: np.ndarray,
         plt.show()
 
     
-def plot_map_data():
+def plot_map_data(plot_nums: bool = True) -> None:
     from project_config import ProjectConfig
     project_config = ProjectConfig()
 
     points, groups, plant_nums= project_config.get_map_data()
 
-    plot_points(points, groups, plant_nums=plant_nums, save_path=project_config.plot_save_path)
+    if plot_nums:
+        plot_points(points, groups, plant_nums=plant_nums, save_path=project_config.plot_save_path)
+    else:
+        plot_points(points, groups, plant_nums=None, save_path=project_config.plot_save_path)
 
 
 if __name__ == '__main__':

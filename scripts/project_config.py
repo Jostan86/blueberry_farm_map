@@ -6,8 +6,8 @@ class ProjectConfig:
     def __init__(self):
         self.project_dir = os.path.join('/', 'home', 'jostan', 'OneDrive', 'Docs', 'Grad_school', 'Research', 'code_projects', 'blueberry_farm_map')
         
-        self.data_dir = os.path.join(self.project_dir, 'data_map_1')
-        # self.data_dir = os.path.join(self.project_dir, 'data_map_2')
+        # self.data_dir = os.path.join(self.project_dir, 'data_map_1')
+        self.data_dir = os.path.join(self.project_dir, 'data_map_2')
 
         self.points_kml_path = os.path.join(self.data_dir, 'collected_data.kml')
 
